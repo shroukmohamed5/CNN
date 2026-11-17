@@ -1,4 +1,5 @@
-[README (7).md](https://github.com/user-attachments/files/34944205/README.7.md)
+<img width="1920" height="940" alt="image" src="https://github.com/user-attachments/assets/6f854915-ce4c-4579-8764-eda745a52efc" />
+
 # Vegetable Image Classification with a CNN (From Scratch)
 
 A Convolutional Neural Network built **from scratch** with Keras `Sequential` to classify vegetable images into **15 classes**.
